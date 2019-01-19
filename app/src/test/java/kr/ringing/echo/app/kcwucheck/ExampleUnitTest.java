@@ -1,4 +1,4 @@
-package kr.or.kcwu.crm.kcwucheck;
+package kr.ringing.echo.app.kcwucheck;
 
 import org.junit.Test;
 
